@@ -8,3 +8,7 @@ Folders contain example output
 
 # Dependencies
 FEMM: https://www.femm.info/wiki/HomePage
+
+Matplotlib: `pip install matplotlib`
+
+Numpy: `pip install numpy`
