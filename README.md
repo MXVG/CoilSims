@@ -9,9 +9,6 @@ Just run python file in folder with StageSetup.xlsx (your coil configuration) to
 
 ![Screenshot from 2024-01-19 18-34-31](https://github.com/MXVG/Coilgun-Simulator/assets/91643168/0ca3895f-cffe-4d91-8c0a-7499452bd479)
 
-Certainly! Here's the provided information formatted into a table using Markdown syntax:
-
-markdown
 
 | Parameter  | Description                                        |
 |------------|----------------------------------------------------|
